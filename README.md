@@ -42,9 +42,9 @@ I found out very late in my life that all of this scene existed. And it felt lik
 
 I enjoy starting new projects, though finishing them is my biggest challenge. Check out my pinned repositories and the organization I'm part of to see how many unfinished projects I have 😭.
 
+<h3>📸 Minecraft Screenshot Bot</h3>
+<p>The only one I have that is both still active, and I consider finished and shipped is that one:</p>
 <figure>
-    <h3>📸 Minecraft Screenshot Bot</h3>
-    <p>The only one I have that is both still active, and I consider finished and shipped is that one:</p>
     <a href="https://github.com/AlyxPink/minecraft-screenshot-bot">
         <img src="https://github.com/AlyxPink/minecraft-screenshot-bot/raw/main/docs/img/banner.png" align="left" width="50%">
         <figcaption>
@@ -56,9 +56,9 @@ I enjoy starting new projects, though finishing them is my biggest challenge. Ch
 
 <br clear="left"/>
 
+<h3>🐳 Docker Hub CLI</h3>
+<p>I also had this project made during an hackathon but I haven't work a lot on it since. But the TUI is 👌</p>
 <figure>
-    <h3>🐳 Docker Hub CLI</h3>
-    <p>I also had this project made during an hackathon but I haven't work a lot on it since. But the TUI is 👌</p>
     <a href="https://github.com/AlyxPink/docker-hub-cli">
         <img src="https://user-images.githubusercontent.com/2109178/180596993-6b6638d8-6dfb-4a84-9bc8-172f282e8af3.png" align="left" width="50%">
         <figcaption>

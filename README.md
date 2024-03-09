@@ -15,7 +15,6 @@ A friend gave me a pirated CD of some MS-DOS games that clearly was not for my a
 I also remember being giften the game [The Incredible Machine](<https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)>). I think that game picked my interest in engineering stuff. I was really into building contraptions after that, making schema of impossible contraptions doing useless stuff, just for the sake of it.
 
 Since then, I've been fascinated by how computers work. I've started playing video games, having to troubleshoot why they were not running, then working with hardware, and finally, writing code early in my teenage years.
-
 <br clear="left"/>
 
 ## 🤗 Hobbies & Interests
@@ -72,7 +71,7 @@ I enjoy starting new projects, though finishing them is my biggest challenge. Ch
 
 ## 💝 Support me
 
-If you like what I do or just want to send some support, consider buying me a coffee! Or really, just a quick email, any kind word if you want to support me would be already amazing.
+If you want to support me, for whatever reason, drop a word on my email address, or you can tip me on ko-fi too. Any kind words matter so dropping me an email is an amzing way to support me if you like whatever I have made.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6U8W0G)
 

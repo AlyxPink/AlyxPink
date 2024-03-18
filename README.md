@@ -69,6 +69,26 @@ I enjoy starting new projects, though finishing them is my biggest challenge. Ch
 
 <br clear="left"/>
 
+<h3>🏳️‍⚧️ <code>deadname_rewriter.sh</code></h3>
+<p>Just a quick script I made that you might have to adapt for your situation, if you want to update any commits you made on all your projects, to remove your deadname and/or old email address.</p>
+<figure>
+    <a href="https://gist.github.com/AlyxPink/44dc3d4d72d520a344a316de3a109eca">
+        <img src="https://github.com/AlyxPink/AlyxPink/assets/152620834/bd69fca8-6247-4d5d-9d6d-6ab4e65e1578" align="left" width="50%">
+    </a>
+        <figcaption>
+            <h4><a href="https://gist.github.com/AlyxPink/44dc3d4d72d520a344a316de3a109eca">Quick bash script to :</a></h4>
+                <ul>
+                    <li>Map your name and email address with your old ones so you can replace them easily</li>
+                    <li>update all your commits</li>
+                    <li>Sign them again</li>
+                    <li>and add a new remote to your repositories.</li>
+                    <li>Do a quick check before confirming the operation to push force `--with-lease`</li> 
+                </ul>
+        </figcaption>
+</figure>
+
+<br clear="left"/>
+
 ## 💝 Support me
 
 If you like what I do or just want to send some support, consider buying me a coffee! Or really, just a quick email, any kind word if you want to support me would be already amazing.

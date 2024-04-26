@@ -1,6 +1,6 @@
 # Hi, I'm Alyx! 👋 🏳️‍🌈 🏳️‍⚧️
 
-<img src="https://blog.alyx.pink/content/images/2023/12/1--1--1.jpeg" align="left" alt="Me, lying down in the grass, with a black cap and a white shirt. My arm is behind my head. It's a sunny day." width="25%">
+<img src="https://blog.alyx.pink/content/images/2023/12/1--1--1.jpeg" align="right" alt="Me, lying down in the grass, with a black cap and a white shirt. My arm is behind my head. It's a sunny day." width="25%">
 
 Born in the 90's, I work in the tech industry since 2014.
 
@@ -15,8 +15,6 @@ A friend gave me a pirated CD of some MS-DOS games that clearly was not for my a
 I also remember being giften the game [The Incredible Machine](<https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)>). I think that game picked my interest in engineering stuff. I was really into building contraptions after that, making schema of impossible contraptions doing useless stuff, just for the sake of it.
 
 Since then, I've been fascinated by how computers work. I've started playing video games, having to troubleshoot why they were not running, then working with hardware, and finally, writing code early in my teenage years.
-
-<br clear="left"/>
 
 ## 🤗 Hobbies & Interests
 
@@ -77,13 +75,11 @@ I enjoy starting new projects, though finishing them is my biggest challenge. Ch
     </a>
         <figcaption>
             <h4><a href="https://gist.github.com/AlyxPink/44dc3d4d72d520a344a316de3a109eca">Quick bash script to :</a></h4>
-                <ul>
-                    <li>Map your name and email address with your old ones so you can replace them easily</li>
-                    <li>update all your commits</li>
-                    <li>Sign them again</li>
-                    <li>and add a new remote to your repositories.</li>
-                    <li>Do a quick check before confirming the operation to push force `--with-lease`</li> 
-                </ul>
+                <p>Map your name and email address with your old ones so you can replace them easily</span>
+                <p>Update all your commits</p>
+                <p>Sign them again</p>
+                <p>and add a new remote to your repositories.</p>
+                <p>Do a quick check before confirming the operation to push force `--with-lease`</p> 
         </figcaption>
 </figure>
 
@@ -91,7 +87,9 @@ I enjoy starting new projects, though finishing them is my biggest challenge. Ch
 
 ## 💝 Support me
 
-If you like what I do or just want to send some support, consider buying me a coffee! Or really, just a quick email, any kind word if you want to support me would be already amazing.
+If you like what I do or just want to send some support, consider buying me a coffee! Or really, **just a quick email**, any kind word if you want to support me would be already amazing.
+
+[GitHub Sponsors](https://github.com/sponsors/AlyxPink)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6U8W0G)
 

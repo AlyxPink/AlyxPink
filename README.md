@@ -16,7 +16,7 @@ I also remember being giften the game [The Incredible Machine](<https://en.wikip
 
 Since then, I've been fascinated by how computers work. I've started playing video games, having to troubleshoot why they were not running, then working with hardware, and finally, writing code early in my teenage years.
 
-## 🤗 Hobbies & Interests
+# 🤗 Hobbies & Interests
 
 **🧑‍💻 Programming**:
 I enjoy coding, it's relaxing outside of work. Currently, I'm learning more about Golang and having a great time with it.
@@ -36,38 +36,69 @@ Coffee starts my day, made with my trusty Jura machine. Sometimes, I switch to b
 **💃 Techno Music & Clubbing**:
 I found out very late in my life that all of this scene existed. And it felt like I was waiting for that all my life. It's a place where I can dance freely, be myself, dress however I want, and forget everything else. I met a lot of nice people there. It feels like it's the only [third-place](https://en.wikipedia.org/wiki/Third_place) where I can go to and socialize.
 
-## 🧰 Some of my projects
+# 🧰 Some of my projects
 
 I enjoy starting new projects, though finishing them is my biggest challenge. Check out my pinned repositories and the organization I'm part of to see how many unfinished projects I have 😭.
 
-<h3>📸 Minecraft Screenshot Bot</h3>
-<p>The only one I have that is both still active, and I consider finished and shipped is that one:</p>
+## [📸 Minecraft Screenshot Bot](https://github.com/AlyxPink/minecraft-screenshot-bot)
+<p>A project I had in my mind and I had no idea how to create untl it clicked!</p>
 <figure>
     <a href="https://github.com/AlyxPink/minecraft-screenshot-bot">
         <img src="https://github.com/AlyxPink/minecraft-screenshot-bot/raw/main/docs/img/banner.png" align="left" width="50%">
         <figcaption>
             <p><i>Capture and share the beauty of Minecraft landscapes!</i></p>
-            <p><i>This script launches Minecraft, takes screenshots, uses an AI to describe them for accessbility purposes, and posts them to Mastodon with an alt-text.</i></p>
+            <p><i>This script launches Minecraft, takes screenshots, uses an AI to describe them for accessbility purposes, and posts them to Mastodon with the generated alt-text.</i></p>
         </figcaption>
     </a>
 </figure>
 
 <br clear="left"/>
 
-<h3>🐳 Docker Hub CLI</h3>
+## [😺 Meowment](https://github.com/meowment-app/)
+<p>Meowment is a new Fediverse social network, compatible with <b>ActivityPub</b>, to share more than just microblogging posts with your friends.</p>
+<figure>
+    <a href="https://github.com/meowment-app">
+        <img src="https://github.com/AlyxPink/AlyxPink/assets/152620834/00ac368e-bd07-49f8-a1a5-5719a95dc4e0" align="right" width="50%">
+        <figcaption>
+            <p><i>A slow paced social network where you can share more than ephemeral posts.</i></p>
+            <p><i>Gives your creation the space it deserved through collections.</i></p>
+            <p><i>Share Meowments with your friends. It could be a memory, a collection of your favorite moments during a trip, anything that is part of you and you'd love to share.</i></p>
+        </figcaption>
+    </a>
+</figure>
+
+<br clear="right"/>
+
+## [🌃 Void Mesh](https://github.com/VoidMesh)
+<p>🎮 First-ever idle game on the Fediverse! Crafted with Golang & <b>ActivityPub</b> for dynamic, community-driven gameplay.</p>
+<figure>
+    <a href="https://github.com/VoidMesh">
+        <img src="https://github.com/AlyxPink/AlyxPink/assets/152620834/7ae0200c-9606-4d7c-8a3b-27a02cede080" align="left" width="50%">
+        <figcaption>
+            <p><b>Idle Gameplay:</b> Enjoy the game at your pace, perfect for casual play.
+            <p><b>Open Source:</b> Dive into the code, contribute, or fork it to create your own version.
+            <p><b>Community-Driven:</b> Built on ActivityPub to enhance interaction and collaboration.
+            <p><b>Cross-Platform:</b> Play on any device, anywhere, seamlessly.
+        </figcaption>
+    </a>
+</figure>
+
+<br clear="left"/>
+
+## [🐳 Docker Hub CLI](https://github.com/AlyxPink/docker-hub-cli)
 <p>I also had this project made during an hackathon but I haven't work a lot on it since. But the TUI is 👌</p>
 <figure>
     <a href="https://github.com/AlyxPink/docker-hub-cli">
-        <img src="https://user-images.githubusercontent.com/2109178/180596993-6b6638d8-6dfb-4a84-9bc8-172f282e8af3.png" align="left" width="50%">
+        <img src="https://user-images.githubusercontent.com/2109178/180596993-6b6638d8-6dfb-4a84-9bc8-172f282e8af3.png" align="right" width="50%">
         <figcaption>
             <p><i>CLI designed to browse Docker Hub and manage their organization: (repositories, organizations, members, etc...)</i></p>
         </figcaption>
     </a>
 </figure>
 
-<br clear="left"/>
+<br clear="right"/>
 
-<h3>🏳️‍⚧️ <code>deadname_rewriter.sh</code></h3>
+## [🏳️‍⚧️ deadname_rewriter.sh](https://gist.github.com/AlyxPink/44dc3d4d72d520a344a316de3a109eca)
 <p>Just a quick script I made that you might have to adapt for your situation, if you want to update any commits you made on all your projects, to remove your deadname and/or old email address.</p>
 <figure>
     <a href="https://gist.github.com/AlyxPink/44dc3d4d72d520a344a316de3a109eca">

@@ -126,7 +126,7 @@ If you like what I do or just want to send some support, consider buying me a co
 
 [GitHub Sponsors](https://github.com/sponsors/AlyxPink)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6U8W0G)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alyxpink)
 
 ## 😽 Thanks for reading!
 

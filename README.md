@@ -46,7 +46,7 @@ I enjoy starting new projects, though finishing them is my biggest challenge. Ch
         <img src="https://github.com/AlyxPink/minecraft-screenshot-bot/raw/main/docs/img/banner.png" align="left" width="60%">
     </a>
     <figcaption>
-        <h3>A project I had in my mind and I had no idea how to create untl it clicked!</h3>
+        <h3>A project I had in my mind and I had no idea how to create until it clicked!</h3>
         <p><i>Capture and share the beauty of Minecraft landscapes!</i></p>
         <p><i>This script launches Minecraft, takes screenshots, uses an AI to describe them for accessbility purposes, and posts them to Mastodon with the generated alt-text.</i></p>
     </figcaption>
